@@ -1,5 +1,7 @@
 123456
 untesting line
+123456 
+testing line
 123456
 commit test
 789.
